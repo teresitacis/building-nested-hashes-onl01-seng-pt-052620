@@ -6,6 +6,10 @@
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => [
         #your hashes here!
+      montague: {
+        patriarch: {name: "Lord Montague", age: "53"},
+        matriarch:{
+      }
       ]
    }, 
    :capulet => {
