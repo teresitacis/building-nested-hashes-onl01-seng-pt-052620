@@ -8,8 +8,11 @@
         #your hashes here!
       montague: {
         patriarch: {name: "Lord Montague", age: "53"},
-        matriarch:{
-      }
+        matriarch:{name: "Lord Montague", age: "54"},
+        hero: {name: "Romeo", age "15", status: "alive"},
+        heroine_friends:[
+        {name;"Benvolio:,age:"17", attitude: "worried"},
+        {name "Mercutio", age "18",attitude: "hot-headed"}
       ]
    }, 
    :capulet => {
@@ -18,7 +21,15 @@
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
         #your hashes here!
-      ]
+   },
+   capulet:
+   patriarch: {name: "Lord Capulet", age: "50"},
+   matriarch: {name: "Lady Capulet", age: "51"},
+   heroine: {name: "Juliet", age: "15", status: "alive"},
+   heroine_friends: [
+    {name: "Steve", age: "30", attitude: "confused"},
+    {name: "Nurse", age "44", attitude: "worried"}
+    ]  
    }
 }
 
