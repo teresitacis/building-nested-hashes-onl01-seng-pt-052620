@@ -7,11 +7,11 @@
       :hero_friends => [
        #your hashes here!
       
-      montague  {
-        patriarch: {
+      montague =>  {
+        patriarch => {
         name: "Lord Montague", 
         age: "53"},
-        matriarch: {name: "Lord Montague", 
+        matriarch  {name: "Lord Montague", 
         age: "54"
         },
         hero: {
